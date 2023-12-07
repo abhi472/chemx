@@ -22,6 +22,14 @@
           }
         },
         {
+          "client_id": "643073516142-rvksdhtisdb840obsegvo83u4bmi652r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tmr.chemx2",
+            "certificate_hash": "50d9cf8d7c64869fa587e9098ad06a623bc1fc2f"
+          }
+        },
+        {
           "client_id": "643073516142-bfh8s9rsdeteea0udu13qtepceuol9dh.apps.googleusercontent.com",
           "client_type": 3
         }

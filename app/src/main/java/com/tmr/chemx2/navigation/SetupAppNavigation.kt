@@ -5,14 +5,14 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import com.tmr.chemx2.AuthScreen
-import com.tmr.chemx2.HomeScreen
+import com.tmr.chemx2.MainScreen
 
 @Composable
 fun SetupAppNavigation(navController: NavHostController) {
     NavHost(navController = navController,
         startDestination = Screens.Home.route) {
         composable(Screens.Home.route) {
-            HomeScreen(navController = navController)
+            MainScreen(navController = navController)
         }
 
         composable(Screens.Login.route) {

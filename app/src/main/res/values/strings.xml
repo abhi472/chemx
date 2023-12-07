@@ -5,4 +5,8 @@
     <string name="intro_message">Some subtext</string>
     <string name="go_to_sign_in">Google Signin</string>
     <string name="welcome_screen_image">welcome screen image</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="list">List</string>
+    <string name="profile">Profile</string>
 </resources>
