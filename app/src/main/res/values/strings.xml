@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChemX</string>
+    <string name="web_client_id">643073516142-bfh8s9rsdeteea0udu13qtepceuol9dh.apps.googleusercontent.com</string>
+    <string name="welcome">Welcome</string>
+    <string name="intro_message">Some subtext</string>
+    <string name="go_to_sign_in">Google Signin</string>
+    <string name="welcome_screen_image">welcome screen image</string>
+</resources>
