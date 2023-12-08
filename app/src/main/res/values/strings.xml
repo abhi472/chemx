@@ -9,4 +9,12 @@
     <string name="search">Search</string>
     <string name="list">List</string>
     <string name="profile">Profile</string>
+    <string name="back_button">Back Button\n</string>
+    <string name="welcome_back">Welcome Back\n</string>
+    <string name="email_address">Email Address</string>
+    <string name="sample_email">abc@xyz.com\n</string>
+    <string name="create_password">Create Password\n</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="sign_in">Sign In</string>
 </resources>
